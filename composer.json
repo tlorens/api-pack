@@ -4,7 +4,7 @@
   "license": "MIT",
   "description": "A pack for API Platform",
   "require": {
-    "php": "^7.0",
+    "php": "^7.2",
     "api-platform/core": "^2.5",
     "doctrine/annotations": "^1.10",
     "doctrine/orm": "^2.7",
